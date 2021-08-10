@@ -1,7 +1,6 @@
 proses 1
 proses 2
 proses 3
-proses 4
-proses 5
 hitung 1
 hitung 2
+reward 1
