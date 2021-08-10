@@ -4,3 +4,5 @@ proses 3
 hitung 1
 reward 1
 testing user pic
+done user A
+done pic A
