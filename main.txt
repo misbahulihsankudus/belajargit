@@ -2,5 +2,5 @@ proses 1
 proses 2
 proses 3
 hitung 1
-hitung 2
 reward 1
+testing user pic
